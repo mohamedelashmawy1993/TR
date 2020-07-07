@@ -124,10 +124,6 @@
     "video": "https://archive.org/download/ms_series_er/er31.mp4"
   },
   {
-    "title": "أرطغرل موسم 1 الحلقه 31",
-    "video": "https://archive.org/download/ms_series_er/er31.mp4"
-  },
-  {
     "title": "أرطغرل موسم 1 الحلقه 32",
     "video": "https://archive.org/download/ms_series_er/er32.mp4"
   },
@@ -598,5 +594,9 @@
   {
     "title": "أرطغرل موسم 1 الحلقه 149",
     "video": "https://archive.org/download/ms_series_er/er149.mp4"
+  },
+  {
+    "title": "أرطغرل موسم 1 الحلقه 150",
+    "video": "https://archive.org/download/ms_series_er/er150.mp4"
   }
 ]
